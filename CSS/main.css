@@ -248,6 +248,10 @@ body {
 	-webkit-border-radius: 15px;
 	box-shadow: 3px 3px 10px 0px rgba(0, 0, 0, 0.5);
 }
+.questionbox h4 {
+	font-family: "Kalpurush", sans-serif;
+}
+
 .questionbox.b1 {
 	margin-top: 200px;
 }
